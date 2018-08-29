@@ -2,11 +2,10 @@
 
 The Python notebooks that accompany the MLSA workshops.
 
-### Supervised/Unsupervised Learning
-* **workshop-DS01**, Introduction to Machine Learning with Pandas/Sklearn
-* **workshop-DS02**, Classification
-* **workshop-DS03**, Regression
-* **workshop-DS04**, Clustering 
+### Supervised Learning
+* **workshop-SL01**, Introduction to Supervised Learning with Pandas/Sklearn
+* **workshop-SL02**, Classification
+* **workshop-SL03**, Regression
 
 ### Deep Learning
 * **workshop-DL01**, Introduction to DNNs with TensorFlow
