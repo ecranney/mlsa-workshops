@@ -1,4 +1,4 @@
-# Machine Learning Students Club Workshops
+# Machine Learning Students Association Workshops
 
 The Python notebooks that accompany the MLSA workshops.
 
