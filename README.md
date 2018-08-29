@@ -2,6 +2,8 @@
 
 The Python notebooks that accompany the MLSA workshops.
 
+This is the first time (August, 2018) that any of these workshops have ever been run; most of them haven't been uploaded yet (and even those that have a are still in a state of flux). We're expecting the workshops to stabilise as we actually deliver them over the next few months.
+
 ### Supervised Learning
 * **workshop-SL01**, Introduction to Supervised Learning with Pandas/Sklearn
 * **workshop-SL02**, Classification
