@@ -14,7 +14,7 @@ The Python notebooks that accompany the MLSA workshops.
 * **workshop-DL04**, Recurrent Neural Networks
 
 ### Reinforcement Learning
-* **workshop-RL01**, Introduction
+* **workshop-RL01**, Introduction to RL
 * **workshop-RL02**, Policy-Based (Policy Gradient)
 * **workshop-RL03**, Value-Based (Deep Q-Networks)
 * **workshop-RL04**, Policy & Value-Based (A3C)
