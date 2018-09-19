@@ -10,10 +10,9 @@ This is the first time (August, 2018) that any of these workshops have ever been
 * **workshop-SL03**, Regression
 
 ### Deep Learning
-* **workshop-DL01**, Introduction to DNNs with TensorFlow
-* **workshop-DL02**, Deep Neural Networks
-* **workshop-DL03**, Convolutional Neural Networks
-* **workshop-DL04**, Recurrent Neural Networks
+* **workshop-DL01**, Deep Neural Networks
+* **workshop-DL02**, Convolutional Neural Networks
+* **workshop-DL03**, Recurrent Neural Networks
 
 ### Reinforcement Learning
 * **workshop-RL01**, Introduction to RL
