@@ -19,3 +19,7 @@ This is the first time (August, 2018) that any of these workshops have ever been
 * **workshop-RL02**, Policy-Based (Policy Gradient)
 * **workshop-RL03**, Value-Based (Deep Q-Networks)
 * **workshop-RL04**, Policy & Value-Based (A3C)
+
+### Miscellaneous
+* **workshop-MSC01**, Word2Vec
+* **workshop-MSC02**, Gaussian Processes
