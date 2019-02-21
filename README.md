@@ -2,7 +2,11 @@
 
 The Python notebooks that accompany the MLSA workshops.
 
-This is the first time (August, 2018) that any of these workshops have ever been run; most of them haven't been uploaded yet (and even those that have a are still in a state of flux). We're expecting the workshops to stabilise as we actually deliver them over the next few months.
+This is the second time (March, 2019) that we'll be running these workshops. We'll be incorporating some feedback from the last time they were held - namely, we'll be fleshing out some of the Supervised/Unsupervised learning workshops. So expect more updates over the next few months.
+
+### Preliminary
+* **workshop-PR01**, Setting up Anaconda3
+* **workshop-PR02**, Data Science Process
 
 ### Deep Learning
 * **workshop-DL01**, Deep Neural Networks
@@ -27,5 +31,5 @@ This is the first time (August, 2018) that any of these workshops have ever been
 * **workshop-MSC01**, Word2Vec
 * **workshop-MSC02**, Gaussian Processes
 
-\* To be scheduled.
+\* To be scheduled.  
 \*\* Half-completed.
