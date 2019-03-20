@@ -1,12 +1,12 @@
-# Machine Learning Workshops
+# Machine Learning Students Association Workshops
 
 The Python notebooks that accompany the MLSA workshops.
 
 This is the second time (March, 2019) that we'll be running these workshops. We'll be incorporating some feedback from the last time they were held - namely, we'll be fleshing out some of the Supervised/Unsupervised learning workshops. So expect more updates over the next few months.
 
 ### Preliminary
-* **workshop-PR01**, Setting up Anaconda3
-* **workshop-PR02**, Data Science Process
+* **workshop-PR01**, Setting up + Intro to data analysis
+* **workshop-PR02**, The briefest intro to modelling
 
 ### Supervised Learning
 * **workshop-SL01**, Classification
@@ -29,3 +29,4 @@ This is the second time (March, 2019) that we'll be running these workshops. We'
 ### Other Ideas 
 * Word2Vec
 * Gaussian Processes
+* Visualization (seaborn, d3.js, PCA)
